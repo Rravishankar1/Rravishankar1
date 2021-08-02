@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Ravishankar and I attend UC Berkeley
 - 👀 I study Computer Science and Statistics, and am interested in their applications to economics
-- 🌱 I’m currently working on implementing a low exposure trading algorithm
+- 🌱 I’m currently working on implementing a rule-based, low exposure trading algorithm
 - ⚡ Fun fact: I love to play drum and listen to music
 - 🥅 Feel free to contact me: rravishankar1@berkeley.edu, (510) 335-9663
 
