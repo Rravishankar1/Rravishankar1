@@ -1,4 +1,4 @@
-UC Berkeley Junior majoring in Coomputer Science
+UC Berkeley Junior majoring in Computer Science
 
 <!---
 Rravishankar1/Rravishankar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
